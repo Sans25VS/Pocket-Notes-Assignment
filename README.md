@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/pocket-notes.git
+git clone https://github.com/Sans25VS/Pocket-Notes-Assignment
 Navigate to the project directory:
 
 bash
@@ -38,7 +38,7 @@ Start the server:
 bash
 Copy code
 npm start
-Access the application at http://localhost:3000.
+Access the application at http://localhost:5000.
 
 API Endpoints
 GET /notes: Retrieve all notes for the authenticated user.
